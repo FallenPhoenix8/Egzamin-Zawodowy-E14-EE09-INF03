@@ -647,9 +647,7 @@ Arkusze z plikami wraz z rozwiązaniami napisanymi przeze mnie.
   - 11 (**PHP**) - Hodowla świnek morskich [INF.03-11-24.06-SG](inf03/inf03_2024_06_11) \
 				[Arkusz](inf03/inf03_2024_06_11/inf_03_2024_06_11_SG.pdf) 
 				[Zasady oceny](inf03/inf03_2024_06_11/INF_03_2024_06_11_SG_zo.pdf)
-				[B
-
-aza](inf03/inf03_2024_06_11/materialy11.zip) \
+				[Baza](inf03/inf03_2024_06_11/materialy11.zip) \
 				[Rozwiązanie](inf03/inf03_2024_06_11/rozwiazanie)
 				[RozwiązanieZIP](inf03/inf03_2024_06_11/rozwiazanie.zip)
 
